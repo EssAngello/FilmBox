@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imageItemPosterCast"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="3dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/benedict"
+        app:riv_corner_radius="33dp" />
+
+    <TextView
+        android:id="@+id/textItemNameCast"
+        android:layout_width="75dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:alpha="0.9"
+        android:fontFamily="@font/roboto"
+        android:gravity="center"
+        android:lines="4"
+        android:text="Benedict Cumberbatch"
+        android:textColor="#9AA7B7"
+        android:textSize="12sp"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/textItemNameCast2"
+        android:layout_width="75dp"
+        android:layout_height="25dp"
+        android:fontFamily="@font/roboto_light"
+        android:text="Dr. Stephen Strange / Snister"
+        android:textAlignment="center"
+        android:textColor="#8A9CB3"
+        android:textSize="10sp" />
+
+
+</LinearLayout>

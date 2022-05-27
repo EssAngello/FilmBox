@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.116" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/background1.xml" value="0.1" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/background2.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/ic_android.xml" value="0.116" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/oval_normal_010101_100_100_100_100_0_409EFF.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/oval_pressed_03F29B_100_100_100_100_0_409EFF.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/ovalnormal.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/ovalselector.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/selector_oval_n_010101_p_03F29B.xml" value="0.1755" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/drawable/splash_screen.xml" value="0.15" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/font/advent_pro_semibold.xml" value="0.215625" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/font/font1.xml" value="0.325" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/activity_buscar.xml" value="0.33" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/activity_destination.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/activity_detalles_peli.xml" value="0.33" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/cast_layout.xml" value="0.33" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/contenedorcast.xml" value="2.0" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/contenedorpeli.xml" value="0.5" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/contenedorpelibusqueda.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/contenedorprovider.xml" value="1.5" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/content_buscar.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/dialogobusqueda.xml" value="0.5" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/peliculas_disenyo.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/layout/peliculas_layout.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/aange/AndroidStudioProjects/FilmBox/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
