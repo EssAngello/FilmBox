@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     private AlarmManager alarmManager;
     private PendingIntent pendingIntent;
 
-    public static final String MYAPI_KEY = "9296a3e45e81c54b2edf97728a33dfe0";
+    public static final String MYAPI_KEY = "your api key";
 
     public static final String LANGUAGE = "es-ES";
 
